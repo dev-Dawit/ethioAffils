@@ -29,7 +29,7 @@ export default function ImageGallery() {
       height: 400,
     },
     {
-      src: "/businesses_cosmotics.jpg",
+      src: "/businesses_cosmotics2.jpg",
       alt: "Modern Ethiopian fashion with traditional elements",
       width: 600,
       height: 400,
