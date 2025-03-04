@@ -23,14 +23,14 @@ export default function ImageGallery() {
       height: 400,
     },
     {
-      src: "/businesses_fashion.jpg",
-      alt: "Young Ethiopian entrepreneurs working at a tech startup",
+      src: "/businesses_cosmotics2.jpg",
+      alt: "Modern Ethiopian fashion with traditional elements",
       width: 600,
       height: 400,
     },
     {
-      src: "/businesses_cosmotics2.jpg",
-      alt: "Modern Ethiopian fashion with traditional elements",
+      src: "/businesses_fashion.jpg",
+      alt: "Young Ethiopian entrepreneurs working at a tech startup",
       width: 600,
       height: 400,
     },
