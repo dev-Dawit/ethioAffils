@@ -22,7 +22,7 @@ export default function AffiliatesPage() {
               className="h-6 w-6"
             >
               <circle cx="12" cy="12" r="10" />
-              <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" />
+              <path d="M12 2a14.5 14.5 0 0 0 0 20a14.5 14.5 0 0 0 0-20" />
               <path d="M2 12h20" />
             </svg>
             <span>EthioAffiliates</span>
@@ -81,7 +81,7 @@ export default function AffiliatesPage() {
                   </li>
                 </ul>
                 <div className="flex flex-col gap-2 min-[400px]:flex-row">
-                  <Link href="/">
+                  <Link href="/register-affiliate">
                     <Button size="lg">Join as an Affiliate</Button>
                   </Link>
                   <Link href="/">
@@ -197,7 +197,7 @@ export default function AffiliatesPage() {
                   Join Ethiopia's first affiliate marketplace today and turn your influence into income.
                 </p>
               </div>
-              <Link href="/">
+              <Link href="/register-affiliate">
                 <Button size="lg">Become an Affiliate</Button>
               </Link>
             </div>
@@ -221,7 +221,7 @@ export default function AffiliatesPage() {
                 className="h-6 w-6"
               >
                 <circle cx="12" cy="12" r="10" />
-                <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" />
+                <path d="M12 2a14.5 14.5 0 0 0 0 20a14.5 14.5 0 0 0 0-20" />
                 <path d="M2 12h20" />
               </svg>
               <span>EthioAffiliates</span>
